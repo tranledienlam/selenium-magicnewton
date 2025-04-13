@@ -53,7 +53,9 @@
 - **Roll now**(2): Tự động Roll now hằng ngày.
 
 **Chú giải**: 
-(1) script chơi game dò mìn không phải do mình viết, mình sưu tầm bên Channel Tele Dân Cày Airdrop [tại đây](https://t.me/dancayairdrop/5458)
+
+(1) script chơi game dò mìn không phải do mình viết, mình sưu tầm bên Channel Tele Dân Cày Airdrop [tại đây](https://t.me/dancayairdrop/5458).
+
 (2) Thời gian hồi cho mỗi lần Roll now là 24h. Để tối ưu số điểm, bạn có thể chạy tool nodejs của Dân Cày Airdrop [tại đây](https://t.me/dancayairdrop/4809)
 
 ---
