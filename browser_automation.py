@@ -1044,6 +1044,7 @@ class BrowserManager:                                                           
             f'--user-data-dir={self.user_data_dir}/{profile_name}')
         # chrome_options.add_argument(f'--profile-directory={profile_name}') # tắt để sử dụng profile default trong profile_name
         chrome_options.add_argument('--lang=en')
+        chrome_options.add_argument("--mute-audio")
         chrome_options.add_argument('--no-first-run') 
         chrome_options.add_argument(f"--force-device-scale-factor={scale}")
         # để có thể đăng nhập google

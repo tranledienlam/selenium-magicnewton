@@ -1,4 +1,4 @@
-# AUTOMATION MAGICNEWTON với Selenium Python
+# ~~AUTOMATION MAGICNEWTON với Selenium Python~~
 
 ## ⚠ Lưu ý quan trọng
 
